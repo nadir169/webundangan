@@ -1,0 +1,139 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.con-body {
+   background-color:none;
+   
+       
+}
+
+.font1 {
+
+color: #ffffff;
+  font-family: "Dancing Script", cursive ;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 100px;
+
+}
+
+.font-nama {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
+  font-size: 100px;
+  color: #ffffff
+
+}
+.navbar-container {
+    background-color: gray;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100px;
+}
+
+.ul-navbar {
+
+    height: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.li-navbar {
+   
+    list-style-type: none;
+    padding: 10px;
+color: #f3f3f3;
+margin: white;
+text-decoration: none;
+}
+.li-navbar:hover {
+    background-color: crimson;
+    transition: .1s ease-in-out;
+    transition-delay: .2s;
+    border-radius: 8px;
+
+    
+}
+
+.a-navbar {
+    color:rgb(255, 255, 255)
+
+}
+.gambar1 {
+  
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.gambar2 {
+  
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.img-space {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+      font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+}
+.mengundang {
+
+          font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+}
+
+.ucapan-container {
+
+
+justify-content: center;
+align-items: center;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+    
+} 
+.ucapan12 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+
+}
+.kehadiran {
+        list-style-type: none;
+    padding: 10px;
+color: #f3f3f3;
+margin: white;
+text-decoration: none;
+}
+.bar-bawah {
+        justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: cursive;
+      font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+}
+
+.input-konfirmasi {
+    color: white;
+    padding: 10px;
+    margin: white;
+  
+}
